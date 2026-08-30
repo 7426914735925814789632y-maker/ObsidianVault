@@ -3,7 +3,7 @@ name: Unzip Vault
 on:
   push:
     paths:
-      - 'Obsidianメイン.zip'
+      - '*.zip'
 
 jobs:
   unzip:
@@ -14,8 +14,8 @@ jobs:
 
       - name: Unzip Obsidian Vault
         run: |
-          unzip -o Obsidianメイン.zip -d .
-          rm Obsidianメイン.zip
+          unzip -o *.zip -d .
+          rm *.zip
 
       - name: Commit and Push unzipped files
         uses: stefanzweifel/git-auto-commit-action@v5

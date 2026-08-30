@@ -1,0 +1,23 @@
+name: Unzip Vault
+
+on:
+  push:
+    paths:
+      - 'Obsidianメイン.zip'
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Unzip Obsidian Vault
+        run: |
+          unzip -o Obsidianメイン.zip -d .
+          rm Obsidianメイン.zip
+
+      - name: Commit and Push unzipped files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated unzip: Obsidian Vault updated"

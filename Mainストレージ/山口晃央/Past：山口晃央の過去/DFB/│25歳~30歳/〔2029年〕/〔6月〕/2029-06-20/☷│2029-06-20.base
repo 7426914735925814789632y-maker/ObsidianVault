@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      or:
+        - |
+          file.ctime.date() == "2029-06-20"
+        - and:
+            - '!file.inFolder("山口晃央/Past：山口晃央の過去/DFB")'
+            - file.hasLink("山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2029年〕/〔6月〕/2029-06-20/2029-06-20")

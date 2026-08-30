@@ -1,0 +1,156 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:(\"(ⅴ)_⚙️-①\")",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:(\"(ⅱ)_💓-②‪\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16754413
+      }
+    },
+    {
+      "query": "path:(\"(ⅲ)_❔-③\")",
+      "color": {
+        "a": 1,
+        "rgb": 44799
+      }
+    },
+    {
+      "query": "path:(\"(ⅰ)_🌟-④\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:(\"(ⅳ)_🐨-⑤\")",
+      "color": {
+        "a": 1,
+        "rgb": 3355443
+      }
+    },
+    {
+      "query": "path:\"(ⅷ)_🕳-⑥\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8821677
+      }
+    },
+    {
+      "query": "path:\"(ⅷⅰ)_👑-⑦\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:\"(ⅶ)_🍃-⑧\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "path:\"(ⅵ)_☁-⑨\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 524380
+      }
+    },
+    {
+      "query": "path:\"(ⅹⅱ)_💋-⑩\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:\"(ⅹⅰ)_⛓️-⑪\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9044169
+      }
+    },
+    {
+      "query": "path:(\"(ⅹ)_🚪-⑭\")",
+      "color": {
+        "a": 1,
+        "rgb": 7880704
+      }
+    },
+    {
+      "query": "file:⑫",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:山口晃央/FOS［山口晃央］/その他/│年号  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758656
+      }
+    },
+    {
+      "query": "path:山口晃央/Past：山口晃央の過去  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:日付/時事  ",
+      "color": {
+        "a": 1,
+        "rgb": 10377883
+      }
+    },
+    {
+      "query": "path:山口晃央/！12_⑫  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:山口晃央/Future：山口晃央の未来  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:山口晃央/FOS［山口晃央］/その他/│国連加盟国  ",
+      "color": {
+        "a": 1,
+        "rgb": 37913
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.7942522889115,
+  "lineSizeMultiplier": 1.65773143438454,
+  "collapse-forces": false,
+  "centerStrength": 0.427772126144456,
+  "repelStrength": 18.0773143438454,
+  "linkStrength": 0.867243133265514,
+  "linkDistance": 431,
+  "scale": 0.021899847256705934,
+  "close": true
+}

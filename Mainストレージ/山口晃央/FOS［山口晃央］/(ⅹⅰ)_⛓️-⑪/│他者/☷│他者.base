@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.name.contains("👤：")
+        - not:
+            - file.name.contains(".base")
+    order:
+      - file.name
+      - file.folder

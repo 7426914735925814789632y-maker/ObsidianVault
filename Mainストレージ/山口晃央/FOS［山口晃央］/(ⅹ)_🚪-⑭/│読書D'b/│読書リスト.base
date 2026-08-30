@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.inFolder("山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│読書D'b/│読書Log")
+        - file.name.containsAll("📖")
+    groupBy:
+      property: 垢Tag
+      direction: ASC
+    order:
+      - file.name
+      - 垢Tag
+    sort:
+      - property: 垢Tag
+        direction: ASC
+      - property: tags
+        direction: ASC

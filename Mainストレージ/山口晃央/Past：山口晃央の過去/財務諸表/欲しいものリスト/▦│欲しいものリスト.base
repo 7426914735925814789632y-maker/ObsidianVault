@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - 購入状態 == ["🎁"]
+    order:
+      - file.name
+      - 価格
+      - 重要度
+      - 意味
+    summaries:
+      価格: Sum

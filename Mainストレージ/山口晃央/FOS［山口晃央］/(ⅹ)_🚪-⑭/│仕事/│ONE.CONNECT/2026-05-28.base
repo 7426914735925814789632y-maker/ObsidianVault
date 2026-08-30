@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      or:
+        - and:
+            - '!file.inFolder("山口晃央/Past：山口晃央の過去/DFB")'
+            - file.links == "2026-05-28"

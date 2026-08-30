@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.folder == "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/│仕事術/│ビジネス用語/│プロフェッショナル・ダイアレクト"
+    order:
+      - file.name
+      - 意味
+      - 例文

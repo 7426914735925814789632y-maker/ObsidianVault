@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      or:
+        - |
+          file.ctime.date() == "2026-03-19"
+        - and:
+            - '!file.inFolder("山口晃央/Past：山口晃央の過去/DFB")'
+            - file.hasLink("山口晃央/Past：山口晃央の過去/DFB/〔2026年〕/〔3月〕/2026-03-19/2026-03-19")

@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.hasLink("山口晃央/FOS［山口晃央］/(ⅹⅰ)_⛓️-⑪/│他者/│キャリア=コミュニティ/│学校/05_【職業訓練校】/👤：「山口 けいこ」")

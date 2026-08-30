@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.hasLink("山口晃央/FOS［山口晃央］/(ⅹⅰ)_⛓️-⑪/│他者/│キャリア=コミュニティ/│ビジネス・職場/│One.Connect/│Preco/│Timee経由/👤：「下田 結愛」/👤：「下田 結愛」")

@@ -1,0 +1,31 @@
+/* コメントアウトの閉じタグと # を正しく修正 */
+
+/* 1. 標準の日付入力の文字色と背景 */
+input[type="date"],
+input[type="datetime-local"],
+.metadata-property-value input[type="date"] {
+  color: #ffffff !important;
+  background-color: #2a2a2a !important;
+  color-scheme: dark !important;
+}
+
+/* 2. Android / Chromebookのダイアログ・ポップアップ全体の強制ダーク化 */
+.picker-modal,
+.modal,
+.datepicker-modal,
+div[class*="picker"],
+div[class*="calendar"] {
+  background-color: #1e1e1e !important;
+  color: #ffffff !important;
+}
+
+/* 3. 日付数字などの文字色を白（またはくっきり見える色）に上書き */
+div[class*="picker"] *,
+div[class*="calendar"] * {
+  color: #ffffff !important;
+}
+
+/* 4. カレンダーアイコンの反転 */
+::-webkit-calendar-picker-indicator {
+  filter: invert(1) !important;
+}

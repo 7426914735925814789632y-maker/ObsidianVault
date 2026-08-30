@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"40e1b669b1daf275","x":-269,"y":87,"width":617,"height":1056,"type":"text","text":"<div style=\"margin: -20px; overflow: hidden;\">\n  <img src=\"https://i1-e.pinimg.com/736x/f0/88/57/f088570a80d857f0d1009e3dba3530da.jpg\"\n   style=\"width: 100%; display: block;\">\n</div>\n\n\n![]()"},
+		{"id":"b1c718acc5c2d975","x":-67,"y":1095,"width":250,"height":60,"type":"text","text":"【皇帝】👤\n⇒「権威」「地位」「支配」「父権制」"},
+		{"id":"d90b9c74576e17c8","x":183,"y":354,"width":250,"height":60,"type":"text","text":"【赤い鎧・衣】🟥\n⇒「情熱」「欲望」「闘争心」「能動」"},
+		{"id":"85e7b5365689f08c","x":307,"y":476,"width":165,"height":55,"type":"text","text":"【背景の岩山】⛰️\n⇒「困難」「試練」"},
+		{"id":"6f4963ecefbe6374","x":-306,"y":257,"width":270,"height":50,"type":"text","text":"【王冠】👑\n⇒「物質的支配」「目的達成」「権威」"},
+		{"id":"f2d19748bfb7469a","x":158,"y":767,"width":338,"height":50,"type":"text","text":"【深く座る姿勢】🧘\n⇒「立場の不動性」「肉体的受動性」「観察と決断」"},
+		{"id":"3a545c9f48671fba","x":-451,"y":498,"width":250,"height":60,"type":"text","text":"【右手に持った笏】❗️\n⇒「能動性」「支配力」「男根」"},
+		{"id":"880f612e6364a532","x":-539,"y":355,"width":311,"height":71,"type":"text","text":"【笏のエジプト十字】= \"ヴィーナスの象徴\"♀️\n⇒「性的魅力」「愛するものを護る」"},
+		{"id":"53c35a2ec899a272","x":277,"y":549,"width":335,"height":64,"type":"text","text":"【左手の黄金地球儀】🌍️\n⇒「無意識的女性性」「愛による支配」「所有欲」"},
+		{"id":"1ccc82a57484dab6","x":-398,"y":792,"width":351,"height":62,"type":"text","text":"【石の椅子】🪑\n⇒「物質的土台」「試練の達成」「世俗的課題の経過」"},
+		{"id":"cfa1ce63102c759a","x":-489,"y":668,"width":274,"height":67,"type":"text","text":"【四つの牡羊レリーフ】= \"火\"の象徴 🐏\n⇒「能動」「変える力」「統率」"},
+		{"id":"34f36d2a05fab6fd","x":-921,"y":685,"width":382,"height":140,"type":"text","text":"［四元素の象徴］💠\n・均等に配置された”四”は元素のバランスを示す\n・牡羊のレリーフから、四つのバランスが”火”を軸に集結発揮されていることを示す"},
+		{"id":"f8f2760dd569addd","x":508,"y":311,"width":250,"height":60,"type":"text","text":"【左肩の牡羊レリーフ】🐏"},
+		{"id":"a1a042c29c5b8049","x":128,"y":280,"width":250,"height":60,"type":"text","text":"【蓄えた髭】🧔\n⇒「経験知」「統率力」「父権制」"},
+		{"id":"d1c8aaeff295575f","x":-1561,"y":307,"width":352,"height":614,"type":"text","text":"<div style=\"margin: -20px; overflow: hidden;\">\n  <img src=\"https://i.pinimg.com/736x/43/c0/dc/43c0dc9f0993f7399bcb77f41735d717.jpg\" style=\"width: 100%; display: block;\">\n</div>\n\n![]()"},
+		{"id":"74bfa1ed0b05cebd","x":-1773,"y":424,"width":275,"height":51,"type":"text","text":"【振り上げた笏】⇔【握りおろした笏】"},
+		{"id":"f71d1bd839f8edd0","x":-1771,"y":345,"width":273,"height":50,"type":"text","text":"【右手側に地球儀】⇔【左手に地球儀】"},
+		{"id":"99ebe08ac162fd48","x":-1237,"y":458,"width":376,"height":50,"type":"text","text":"【背景に小川・生い茂る緑】⇔【背景に岩石砂漠な山々】"},
+		{"id":"f2aaa53ac6e39039","x":-1864,"y":551,"width":355,"height":50,"type":"text","text":"【柔らかく華やかな椅子】⇔【硬い岩の厳かな椅子】"},
+		{"id":"5bd33f0b2696b93d","x":-1280,"y":655,"width":257,"height":50,"type":"text","text":"【軽やかな出産着】⇔【重そうな鎧】"},
+		{"id":"48ea367e295282c3","x":-1508,"y":883,"width":258,"height":50,"type":"text","text":"【母性司る女神】⇔【父性司る英雄】"},
+		{"id":"11849e0f86649e8e","x":-1901,"y":731,"width":421,"height":50,"type":"text","text":"【盾にあしらわれた金星十字】⇔【笏にあしらわれた金星十字】"},
+		{"id":"9a651ed4a1a239f6","x":-1470,"y":270,"width":308,"height":50,"type":"text","text":"【黄色い快晴の空】⇔【橙の陽炎さす夕空】"},
+		{"id":"0c4a2e259275f255","x":-1251,"y":550,"width":373,"height":50,"type":"text","text":"【下向き・膝においた左手】⇔【上向き・物持つ左手】"}
+	],
+	"edges":[
+		{"id":"a20b341fc32497f3","fromNode":"3a545c9f48671fba","fromSide":"left","toNode":"880f612e6364a532","toSide":"left"},
+		{"id":"ffab9ffa4161438f","fromNode":"cfa1ce63102c759a","fromSide":"left","toNode":"34f36d2a05fab6fd","toSide":"right"},
+		{"id":"59295003205f805a","fromNode":"d90b9c74576e17c8","fromSide":"right","toNode":"f8f2760dd569addd","toSide":"left"},
+		{"id":"bb4962f8bfc2e64d","fromNode":"d1c8aaeff295575f","fromSide":"right","toNode":"40e1b669b1daf275","toSide":"left"}
+	]
+}

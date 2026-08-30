@@ -1,0 +1,123 @@
+
+
+```cardlink
+url: https://music.youtube.com/watch?v=CkOaXPCVw9c&si=-mX9UkBoUCPHbjWf
+title: "Bling-Bang-Bang-Born"
+description: "Creepy Nuts"
+host: music.youtube.com
+favicon: https://music.youtube.com/favicon.ico
+image: https://lh3.googleusercontent.com/ibUPY1ngpC1FDciRsyS89-dDrYyYV-4fVx6Ou9DSnbNJ1Qp45kay4Bqn1_2lPqORc4dOHDvUer9_QQfZ6g
+```
+
+
+
+```cardlink
+url: https://music.youtube.com/watch?v=AFtBBtJ2Jdg&si=gEOrY7c8RjlVQ_ol
+title: "【歌ってみた】「Bling-Bang-Bang-Born / Creepy Nuts」 covered by 春猿火"
+description: "春猿火"
+host: music.youtube.com
+favicon: https://music.youtube.com/favicon.ico
+image: https://i.ytimg.com/vi/AFtBBtJ2Jdg/maxresdefault.jpg
+```
+
+
+---
+
+作詞:R指定
+作曲:DJ松永
+リリース日:2024/01/07
+
+
+
+チート gifted 荒技 wanted
+禁忌 禁じ手 明らか盲点
+反則 異次元 この世のもんでは無いです
+無理ゲー それ聞いてないって．．．
+
+ay ライバル口を揃えて
+wow ライバル 口を揃えて
+バグで まぐれ 認めねーゼッテー
+マジで？コレおま．．．全部生身で？
+
+  
+
+It's 生身 it's 生身 yeah, yeah, yeah, yeah
+
+Bling-bang-bang, bling-bang-bang-born．．．
+Bling-bang-bang, bling-bang-bang-born．．．
+
+
+実力を発揮し切る前に
+相手の方がバックれてくらしい
+上がり切るハードル very happy
+あきらかにダントツでピカイチ
+相変わらず脱皮してる毎日 (bling bling．．．)
+
+誰の七光も要らないお前の ice より icy (icy)
+俺 パッと見出来ない事ばっかりだけど very happy　
+あ キレてる呆れてる周り 
+恵まれてる家族友達 (happy)
+
+もう反則的立ち位置 皆俺に任せとけば良い (bang bang bang)
+教科書に無い 問題集に無い
+超BADな呪い listen
+
+鏡よ鏡 答えちゃって
+Who's the best? I'm the best! Oh, yeah
+
+生身のまま行けるとこまで
+To the next, to the 1番上
+
+
+now singin'
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+
+To the next, to the 1番上
+
+Eyday 俺のままで居るだけで超flax
+Eyday 誰も口を挟めない(don't test)
+Eyday 俺のままで居るだけで超flax
+Eyday 誰も口を挟ませない(don't test)
+
+
+  
+Yeah,YeahYeah
+学歴も無い前科も無い余裕で bling-bling
+この存在自体が文化財な脳味噌 bling-bling
+高級車は買える免許は無い愛車 green green
+全国各地揺らす逸品
+このベロが bling-bling
+
+バレットなら満タン
+関西訛り生身のコトダマ
+音楽 幸運 勝利の女神 今宵も三股 bang bang 
+
+漫画みたいな輩とまんまで張りあえてしまってる漫画
+圧倒的チカラこの頭と口から
+
+この身体 tattoo は入って無い
+このツラに傷もついて無い
+繰り返しやらかしてくダメージが
+イカつい年輪を刻む皺
+
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+俺のままで bling して bang して bang する為に born して来たニッポン
+
+鏡よ鏡 答えちゃって
+Who's the best? I'm the best! Oh, yeah
+生身のまま行けるとこまで
+To the next, to the 1番上
+
+now singin'
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+bling-bang-bang, bling-bang-bang, bling-bang-bang-born．．．
+To the next, to the 1番上
+
+Eyday 俺のままで居るだけで超flax
+Eyday 誰も口を挟めない(don't test)
+Eyday 俺のままで居るだけで超flax
+Eyday 誰も口を挟めない(don't test)
+

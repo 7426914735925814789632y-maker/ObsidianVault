@@ -1,0 +1,8 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 13,
+  "slidingSidebar": true,
+  "enabledCssSnippets": [
+    "カレンダー表示バグエラー修復"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"(ⅴ)_⚙️-①\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"(ⅱ)_💓-②‪\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753651
+      }
+    },
+    {
+      "query": "path:\"(ⅲ)_❔-③\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 42751
+      }
+    },
+    {
+      "query": "path:\"(ⅰ)_🌟-④\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"(ⅳ)_🐨-⑤\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3552822
+      }
+    },
+    {
+      "query": "path:\"(ⅷ)_🕳-⑥\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7056839
+      }
+    },
+    {
+      "query": "path:\"(ⅷⅰ)_👑-⑦\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:\"(ⅶ)_🍃-⑧\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7405472
+      }
+    },
+    {
+      "query": "path:\"(ⅵ)_☁-⑨\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1425
+      }
+    },
+    {
+      "query": "path:\"(ⅹⅱ)_💋-⑩\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16742144
+      }
+    },
+    {
+      "query": "path:\"(ⅹⅰ)_⛓️-⑪\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9044175
+      }
+    },
+    {
+      "query": "path:！12_⑫  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"(ⅹ)_🚪-⑭\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11749120
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 2.72446592065107,
+  "lineSizeMultiplier": 3.31998664801628,
+  "collapse-forces": false,
+  "centerStrength": 0.220244150559512,
+  "repelStrength": 8.7589013224822,
+  "linkStrength": 1,
+  "linkDistance": 262,
+  "scale": 0.4723560068164265,
+  "close": true
+}

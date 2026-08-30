@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - 大会タグ == ["🟢"]
+    order:
+      - file.name
+      - 大会タグ
+      - Cost(ゆる)
+      - スキル効果
+      - file.links

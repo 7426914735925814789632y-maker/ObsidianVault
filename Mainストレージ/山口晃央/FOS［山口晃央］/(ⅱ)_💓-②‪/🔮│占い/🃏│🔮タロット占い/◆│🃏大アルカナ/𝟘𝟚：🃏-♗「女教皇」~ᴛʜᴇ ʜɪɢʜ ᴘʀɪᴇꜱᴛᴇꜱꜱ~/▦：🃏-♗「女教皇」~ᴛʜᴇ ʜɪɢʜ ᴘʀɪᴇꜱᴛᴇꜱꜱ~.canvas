@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"64ba1e5af5b51fa5","type":"text","text":"<div style=\"margin: -20px; overflow: hidden;\">\n  <img src=\"https://i.pinimg.com/736x/cd/67/1d/cd671dbc8dfe4bcea6957d65322963fa.jpg\" style=\"width: 100%; display: block;\">\n</div>\n","x":-257,"y":-174,"width":538,"height":899},
+		{"id":"e8c871516a03ec54","type":"text","text":"【女教皇】👤\n⇒「処女性」「受容性」「神秘」「謎」","x":-120,"y":700,"width":273,"height":71},
+		{"id":"042b2b5816b8f396","type":"text","text":"モデル：\nローマ教皇ヨハンナ・女神イシス・聖母マリア","x":-140,"y":820,"width":330,"height":73},
+		{"id":"9a096aa68e101602","type":"text","text":"【座位】🧘‍♂️\n⇒「内省」「思考」","x":-280,"y":480,"width":229,"height":64},
+		{"id":"d1ee9f5bbcdfc534","type":"text","text":"【三日月の冠】=女神の象徴👑\n⇒「潜在意識」「深層心理」","x":-346,"y":20,"width":246,"height":64},
+		{"id":"f5d7e4b46552edf4","type":"text","text":"【三日月】🌙\n⇒「深層心理」「夢」「夜」","x":120,"y":540,"width":208,"height":57},
+		{"id":"8259ecfcf61bce8c","type":"text","text":"【青い服】👗=聖母マリア\n⇒「水」「潜在意識」「精神」","x":100,"y":380,"width":226,"height":51},
+		{"id":"3ec180d949924860","type":"text","text":"【十字架】✝️ = \"男性性(│)\"×”女性性(ｰ)” \n⇒「性的中性」「バランス」「調和」「二元論」","x":20,"y":270,"width":308,"height":50},
+		{"id":"38ddd35b43e6797d","type":"text","text":"【半分隠れたトーラ(立法書)】📜\n⇒「深い知性」「表層知識の敗北」","x":-338,"y":320,"width":258,"height":50},
+		{"id":"daefd2a7d643fd2f","type":"text","text":"【垂れ幕(ザクロ・ナツメヤシ)】🏴 =生命樹 \n⇒「真理への扉」「人類の叡智」「知性の関門」","x":120,"y":20,"width":324,"height":50},
+		{"id":"09bac02f806f9042","type":"text","text":"【背後に垣間見える海】🌅\n⇒「次のステージ」「願望」「潜在意識」「変わりうる将来」","x":-549,"y":400,"width":391,"height":50},
+		{"id":"9adf65347b53fd4c","type":"text","text":"【黒い柱＝”ボアズ”】◼️\n⇒「受動性」「闇・陰性」「惰性」","x":-346,"y":-80,"width":246,"height":50},
+		{"id":"7b9363ad7f108224","type":"text","text":"「Boaz」＝”力の中に”の意","x":-551,"y":-250,"width":251,"height":50},
+		{"id":"c5786b6aecfa5ee9","type":"text","text":"【白い柱＝”ヤキン”】⬜️\n⇒「能動性」「光・陽性」「実現」","x":100,"y":-80,"width":240,"height":50},
+		{"id":"c73e39cd595afa12","type":"text","text":"「Jachin」＝”彼が確立するであろう”","x":340,"y":-241,"width":270,"height":50},
+		{"id":"61b8cf62150322e1","type":"text","text":"モデル：\n古代エルサレム神殿(旧約聖書)の入口の２本柱\n「ヤキン」と「ボアズ」から","x":-170,"y":-469,"width":330,"height":75},
+		{"id":"a46bafa39a845331","type":"text","text":"【２本の柱】🏛️ \n⇒「調和」「二元論」「表裏一体」「陰陽」","x":-132,"y":-209,"width":272,"height":50},
+		{"id":"58cfc4959b8c2c99","type":"text","text":"【ナツメヤシ】=男性器🌴\n⇒「能動性」","x":520,"y":-52,"width":200,"height":50},
+		{"id":"4676d0f41b259324","type":"text","text":"【ザクロ】=女性器🍓\n⇒「受動性」","x":520,"y":100,"width":200,"height":50},
+		{"id":"4fa6229b21619eba","type":"text","text":"\n　![](https://i.pinimg.com/736x/43/c0/dc/43c0dc9f0993f7399bcb77f41735d717.jpg)","x":-1500,"y":-20,"width":380,"height":600},
+		{"id":"71b20622e56c07a7","type":"text","text":"【自然の中】⇔【人工物(柱)の間】","x":-1221,"y":20,"width":201,"height":50},
+		{"id":"b6ec4220598079fb","type":"text","text":"【立ち上がる姿勢】⇔【座り込む姿勢】","x":-1255,"y":160,"width":235,"height":50},
+		{"id":"c745b7398f3d925c","type":"text","text":"【笏を持ち上げている】⇔【トーラを抱え込んでいる】","x":-1693,"y":40,"width":293,"height":50},
+		{"id":"6b0b323bbd11a8f1","x":-1620,"y":200,"width":240,"height":50,"type":"text","text":"【ザクロの白服】⇔【ザクロの灰色垂れ幕】"},
+		{"id":"e70d5fe6abdb664b","x":-1923,"y":120,"width":203,"height":100,"type":"text","text":"───【衣服】：【垂れ幕】───\n・今：将来\n・行動主体：思考理念\n・女性の機能性：女性の神秘性\n・白の純粋性：灰色のメタ思考性"}
+	],
+	"edges":[
+		{"id":"4a06d6a0fbdc92e2","fromNode":"e8c871516a03ec54","fromSide":"bottom","toNode":"042b2b5816b8f396","toSide":"top"},
+		{"id":"fa33a29f692c3ab8","fromNode":"7b9363ad7f108224","fromSide":"bottom","toNode":"9adf65347b53fd4c","toSide":"left"},
+		{"id":"ef677602b4514ad4","fromNode":"61b8cf62150322e1","fromSide":"left","toNode":"7b9363ad7f108224","toSide":"top"},
+		{"id":"6359056dc8835035","fromNode":"c73e39cd595afa12","fromSide":"bottom","toNode":"c5786b6aecfa5ee9","toSide":"right"},
+		{"id":"b31e5e40432bb3b7","fromNode":"61b8cf62150322e1","fromSide":"right","toNode":"c73e39cd595afa12","toSide":"top"},
+		{"id":"a613b13b288d2616","fromNode":"61b8cf62150322e1","fromSide":"bottom","toNode":"a46bafa39a845331","toSide":"top"},
+		{"id":"785e4bae05105947","fromNode":"c73e39cd595afa12","fromSide":"left","toNode":"a46bafa39a845331","toSide":"right"},
+		{"id":"d774736fccdc5eea","fromNode":"7b9363ad7f108224","fromSide":"right","toNode":"a46bafa39a845331","toSide":"left"},
+		{"id":"fe289d32177fb677","fromNode":"daefd2a7d643fd2f","fromSide":"right","toNode":"58cfc4959b8c2c99","toSide":"left"},
+		{"id":"03d853774d3ab3b6","fromNode":"daefd2a7d643fd2f","fromSide":"right","toNode":"4676d0f41b259324","toSide":"left"},
+		{"id":"1cfadda8631cf87a","fromNode":"4fa6229b21619eba","fromSide":"right","toNode":"64ba1e5af5b51fa5","toSide":"left","fromEnd":"arrow"},
+		{"id":"ec28a35054557606","fromNode":"e70d5fe6abdb664b","fromSide":"right","toNode":"6b0b323bbd11a8f1","toSide":"left","toEnd":"none"}
+	]
+}

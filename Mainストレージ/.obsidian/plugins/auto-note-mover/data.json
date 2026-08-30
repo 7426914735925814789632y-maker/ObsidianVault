@@ -1,0 +1,33 @@
+{
+  "trigger_auto_manual": "Manual",
+  "use_regex_to_check_for_tags": true,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "山口晃央/(ⅷ)_🕳-⑥/│Ak10語",
+      "tag": "#Ak10語",
+      "pattern": ""
+    },
+    {
+      "folder": "時事",
+      "tag": "#時事",
+      "pattern": ""
+    },
+    {
+      "folder": "山口晃央/日付/DFB",
+      "tag": "#DFB",
+      "pattern": ""
+    },
+    {
+      "folder": "日付/MFB",
+      "tag": "#MFB",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": true,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

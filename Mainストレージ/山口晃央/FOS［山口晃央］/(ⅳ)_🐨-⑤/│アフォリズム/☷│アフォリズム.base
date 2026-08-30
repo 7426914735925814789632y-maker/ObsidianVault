@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.inFolder("山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│アフォリズム")
+        - file.name.startsWith("「〝")
+    order:
+      - file.name
+      - 例文
+      - 意味
+      - file.backlinks

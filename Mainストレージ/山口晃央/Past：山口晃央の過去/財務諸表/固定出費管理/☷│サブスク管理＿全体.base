@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.inFolder("山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│サブスクリプション")
+        - ON／OFF == true
+    groupBy:
+      property: 支払い方法
+      direction: ASC
+    order:
+      - file.name
+      - 価格
+      - 支払い方法
+      - 意味
+    summaries:
+      価格: Sum

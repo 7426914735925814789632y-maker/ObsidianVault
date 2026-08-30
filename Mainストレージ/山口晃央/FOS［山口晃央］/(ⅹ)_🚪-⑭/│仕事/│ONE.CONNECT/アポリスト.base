@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.name.contains("アポ")
+        - file.inFolder("山口晃央/Past：山口晃央の過去/DFB")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - 目標日

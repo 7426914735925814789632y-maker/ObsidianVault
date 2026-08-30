@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.hasLink("山口晃央/FOS［山口晃央］/その他🌍/│国連加盟国/│アジア/│東アジア/🇯🇵│日本/│関東地方/13_🗼│🇯🇵「 東京都」/❶：🗼特別区/❶-B：🗼城東/108│🗼「江東区」/👔：「BIC×コジマ  南砂町SUNAMO店」/👔：「BIC×コジマ  南砂町SUNAMO店」")
+        - file.inFolder("山口晃央/Past：山口晃央の過去/DFB")

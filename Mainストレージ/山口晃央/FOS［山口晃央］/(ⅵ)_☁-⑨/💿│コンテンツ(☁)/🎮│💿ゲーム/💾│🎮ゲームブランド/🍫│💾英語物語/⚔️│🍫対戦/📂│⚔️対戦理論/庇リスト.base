@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.inFolder("山口晃央/FOS［山口晃央］/(ⅵ)_☁-⑨/💿│コンテンツ(☁)/🎮│💿ゲーム/💾│🎮ゲームブランド/🍫│💾英語物語")
+        - file.name.startsWith("🐥：")
+        - ゆるスキル == ["庇"]
+    groupBy:
+      property: スキル効果
+      direction: ASC
+    order:
+      - file.name
+      - スキル効果
+      - スキルターン
+      - Cost(ゆる)
+      - 属性
+      - HP(ゆる)
+      - 攻撃(ゆる)

@@ -1,0 +1,17 @@
+summaries:
+  合計: values.mean().round(2)
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - 購入状態 == ["🎁"]
+        - file.inFolder("山口晃央/FOS［山口晃央］/(ⅰ)_🌟-④/🪄│マジック·奇術")
+    order:
+      - file.name
+      - 価格
+      - 購入状態
+      - 意味
+    summaries:
+      価格: Sum
+      意味: Empty

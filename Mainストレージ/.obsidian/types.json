@@ -1,0 +1,29 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "day": "date",
+    "国": "multitext",
+    "HP(ゆる)": "number",
+    "攻撃(ゆる)": "number",
+    "Cost(ゆる)": "number",
+    "スキルターン": "number",
+    "ゆるスキル": "multitext",
+    "スキル効果": "number",
+    "ゆるタグ": "multitext",
+    "大会タグ": "multitext",
+    "属性": "multitext",
+    "垢Tag": "multitext",
+    "価格": "number",
+    "欲しいものリスト": "checkbox",
+    "購入状態": "multitext",
+    "重要度": "multitext",
+    "生年月日": "text",
+    "最終学歴": "multitext",
+    "支払い方法": "multitext",
+    "支払開始日": "text",
+    "ON／OFF": "checkbox",
+    "目標日": "text"
+  }
+}

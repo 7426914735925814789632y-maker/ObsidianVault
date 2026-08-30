@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.hasLink("山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│身体論/│身体運用/│スポーツ/│水泳/│水泳")
+        - file.inFolder("山口晃央/Past：山口晃央の過去/DFB")

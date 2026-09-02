@@ -1,0 +1,17 @@
+{
+  "attributeList": [
+    "id",
+    "href",
+    "src",
+    "width",
+    "height",
+    "alt",
+    "colspan",
+    "rowspan"
+  ],
+  "classList": [],
+  "devMode": false,
+  "removeFrontmatter": false,
+  "removeEmptyContainer": true,
+  "cleanup": true
+}

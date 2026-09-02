@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4b197f1ec6848083","x":-150,"y":-163,"width":430,"height":223,"type":"text","text":"\n#### Gemini通常チャット\n##### 【タスク】\n- 通常の会話共有\n##### 【◎👍】\n- チャットの全文をNotebookLMに簡単に共有できる\n- いずれSparkも統合される、という期待が持てる\n"},
+		{"id":"2364e2ced5d5b332","x":-139,"y":240,"width":419,"height":161,"type":"text","text":"\n#### Spark\n##### 【タスク】\nSpreadsheet系\n- 会計データの登録\n- アポ情報の登録\n\n"},
+		{"id":"84fb5fc0f76c3212","x":544,"y":-150,"width":356,"height":310,"type":"text","text":"#### NotebookLM\n##### 【タスク】\n月間DFB\n- 生活行動パターンの変化\n\n月間雑LOG\n- 心理・認知パターンを含めた変化\n\n全体DFB"}
+	],
+	"edges":[
+		{"id":"b0dde0f3de0d4f07","fromNode":"4b197f1ec6848083","fromSide":"bottom","toNode":"2364e2ced5d5b332","toSide":"top"},
+		{"id":"48dc11083fd28770","fromNode":"4b197f1ec6848083","fromSide":"right","toNode":"84fb5fc0f76c3212","toSide":"left"}
+	]
+}

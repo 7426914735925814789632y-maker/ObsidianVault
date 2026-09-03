@@ -24,6 +24,7 @@
     "支払い方法": "multitext",
     "支払開始日": "text",
     "ON／OFF": "checkbox",
-    "目標日": "text"
+    "目標日": "text",
+    "updated": "text"
   }
 }

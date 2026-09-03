@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - file.hasLink("山口晃央/FOS［山口晃央］/その他🌍/│国連加盟国/│アジア/│東アジア/🇯🇵│日本/│関東地方/13_🗼│🇯🇵「 東京都」/❷：🗼多摩地域/❷-A：🗼北多摩/202│🗼「立川市」/🛒：「Welcia 立川栄店」/🛒：「Welcia 立川栄店」")
+        - file.inFolder("山口晃央/Past：山口晃央の過去/DFB")

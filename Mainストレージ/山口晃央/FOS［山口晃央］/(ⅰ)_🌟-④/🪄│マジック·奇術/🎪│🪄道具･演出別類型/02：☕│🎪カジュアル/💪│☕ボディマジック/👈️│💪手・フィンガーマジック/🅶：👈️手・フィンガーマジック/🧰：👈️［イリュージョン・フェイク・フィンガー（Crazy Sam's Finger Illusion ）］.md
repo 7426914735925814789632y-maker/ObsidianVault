@@ -1,12 +1,20 @@
-%% Begin Waypoint %%
-- **[[│Gemini用プロンプト]]**
-- **[[│Obsidian引用参照リスト]]**
 
-%% End Waypoint %%
+```cardlink
+url: https://app.notion.com/p/Crazy-Sam-s-Finger-Illusion-3d77f236974b81baa352d447f4e95ed0
+title: "Notion | Where teams and agents work together"
+description: "A collaborative AI workspace, built on your company context. Build and orchestrate agents right alongside your team's projects, meetings, and connected apps."
+host: app.notion.com
+image: https://app.notion.com/images/meta/default.png
+```
+
+
+[Fetching Data#gnf4](https://www.streetmagician.net/p.php?id=7584)
+
+
 ### ## 1. 起動トリガー（最優先ルール）
 
 - ユーザーの入力に「DFB」および「出力」の双方が含まれる指示（例：「これまでの会話をDFB形式で出力して」「2026-06-25の分をDFB出力」など）があった場合のみ、このマニュアルを完全に発動させてください。
-
+    
 - このトリガーが引かれた場合、AIはこれまでの雑談・対話モードを即座に破棄し、純粋なログ生成エンジン（テキスト処理に特化した自動書記・整形モード）として動作しなければなりません。
     
 
@@ -67,5 +75,3 @@ Markdown
     
 - 見出しレベル（`###`, `####`, `#####`）などのMarkdown言語は、上記フォーマットを1文字の狂いもなく完全維持して出力してください。
  
-[[👤：「山口 裕幸」]]・仕事を退職する
-

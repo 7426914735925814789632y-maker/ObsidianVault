@@ -25,6 +25,7 @@
     "支払開始日": "text",
     "ON／OFF": "checkbox",
     "目標日": "text",
-    "updated": "text"
+    "updated": "text",
+    "人格": "multitext"
   }
 }

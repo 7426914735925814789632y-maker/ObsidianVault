@@ -369,5 +369,23 @@
       ],
       "key": "A"
     }
+  ],
+  "templater-obsidian:create-山口晃央/ToolBox/│Obsidian設定/🖲：［基本フォルダ設定］│📂.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "templater-obsidian:create-山口晃央/ToolBox/│Obsidian設定/🖲：［フォルダリネーム］│✏️.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }

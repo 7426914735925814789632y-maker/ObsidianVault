@@ -26,6 +26,7 @@
     "ON／OFF": "checkbox",
     "目標日": "text",
     "updated": "text",
-    "人格": "multitext"
+    "人格": "multitext",
+    "デビュー年": "text"
   }
 }

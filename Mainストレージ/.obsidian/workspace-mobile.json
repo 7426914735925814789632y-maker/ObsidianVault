@@ -917,8 +917,7 @@
               "title": "📖│💛マジック・金言"
             }
           }
-        ],
-        "currentTab": 63
+        ]
       }
     ],
     "direction": "vertical"
@@ -1403,8 +1402,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "ノートレビューのキュー"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -1463,6 +1462,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4a55e4496298462d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "ノートレビューのキュー"
         }
@@ -1472,7 +1481,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -1481,10 +1489,11 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "obsidian-spaced-repetition:フラッシュカードのレビュー": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "e542241677eefb3c",
+  "active": "111f38618843b5ba",
   "lastOpenFiles": [
     "山口晃央/FOS［山口晃央］/(ⅰ)_🌟-④/🪄│マジック·奇術/🏟│🪄マジック・パフォーマー業界/👤│🏟マジシャン・パフォーマーList/01：同世代・新世代/1998〜2002：同世代/生年不詳/👤：🪄-🔻〔WADE〕/Untitled.md",
     "山口晃央/FOS［山口晃央］/(ⅰ)_🌟-④/🪄│マジック·奇術/🏟│🪄マジック・パフォーマー業界/👤│🏟マジシャン・パフォーマーList/01：同世代・新世代/1998〜2002：同世代/生年不詳/👤：🪄-🔻〔WADE〕/👤：🪄-🔻〔WADE〕.md",

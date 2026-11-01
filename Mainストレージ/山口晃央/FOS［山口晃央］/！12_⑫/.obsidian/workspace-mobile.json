@@ -101,7 +101,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "ae1664e5596a4bb3",
@@ -166,6 +166,6 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "46e0edb829d0b087",
+  "active": "3dff38cbf05ce0ed",
   "lastOpenFiles": []
 }

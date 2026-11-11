@@ -1,13 +1,11 @@
 {
   "settings": {
     "flashcardTags": [
-      "",
-      "#flashcards",
-      "#Ak10語"
+      "#flashcards"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
-    "flashcardCardOrder": "NewFirstSequential",
+    "flashcardCardOrder": "DueFirstRandom",
     "flashcardDeckOrder": "PrevDeckComplete_Sequential",
     "convertClozePatternsToInputs": false,
     "convertHighlightsToClozes": true,
@@ -22,15 +20,15 @@
     "multilineReversedCardSeparator": "??",
     "multilineCardEndMarker": "",
     "editLaterTag": "#edit-later",
-    "randomizeCardOrder": null,
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [
-      "#review",
-      ""
+      "#review"
     ],
-    "noteFoldersToIgnore": [],
-    "openRandomNote": true,
-    "autoNextNote": true,
+    "noteFoldersToIgnore": [
+      "**/*.excalidraw.md"
+    ],
+    "openRandomNote": false,
+    "autoNextNote": false,
     "showFileMenuReviewOptions": true,
     "deleteTagsOnSchedulingDataDeletion": false,
     "maxNDaysNotesReviewQueue": 365,
@@ -39,7 +37,7 @@
     "showCardStatusBarItem": true,
     "showNoteStatusBarItem": true,
     "showUpdateAvailableStatusBarItem": true,
-    "initiallyExpandAllSubdecksInTree": false,
+    "initiallyExpandAllSubdecksInTree": true,
     "showContextInCards": true,
     "showIntervalInReviewButtons": true,
     "flashcardHeightPercentage": 60,
@@ -69,11 +67,7 @@
     "showSchedulingDebugMessages": false,
     "showParserDebugMessages": false
   },
-<<<<<<< HEAD
   "buryDate": "2026-11-11",
-=======
-  "buryDate": "2026-10-24",
->>>>>>> ec8085a682573e59a75ff1a862ab7eafb3d3df83
   "buryList": [],
   "historyDeck": null
 }

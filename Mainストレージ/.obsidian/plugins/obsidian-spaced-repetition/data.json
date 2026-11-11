@@ -69,7 +69,11 @@
     "showSchedulingDebugMessages": false,
     "showParserDebugMessages": false
   },
+<<<<<<< HEAD
   "buryDate": "2026-11-11",
+=======
+  "buryDate": "2026-10-24",
+>>>>>>> ec8085a682573e59a75ff1a862ab7eafb3d3df83
   "buryList": [],
   "historyDeck": null
 }

@@ -1197,8 +1197,12 @@
               "title": "│失敗学"
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 77
+=======
+        ]
+>>>>>>> ec8085a682573e59a75ff1a862ab7eafb3d3df83
       }
     ],
     "direction": "vertical"
@@ -1683,8 +1687,8 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "ノートレビューのキュー"
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
         }
       },
       {
@@ -1723,6 +1727,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-ghost",
+          "title": "review-queue-list-view"
+        }
+      },
+      {
+        "id": "4a55e4496298462d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "ノートレビューのキュー"
         }
@@ -1732,7 +1746,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -1741,10 +1754,11 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "obsidian-spaced-repetition:フラッシュカードのレビュー": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "e542241677eefb3c",
+  "active": "111f38618843b5ba",
   "lastOpenFiles": [
     "山口晃央/FOS［山口晃央］/(ⅶ)_🌱-⑧/│生態学・進化論/│行動生態学・繁殖戦略/│性転換/「雄性先熟」/Untitled.md",
     "山口晃央/FOS［山口晃央］/(ⅶ)_🌱-⑧/│生態学・進化論/│行動生態学・繁殖戦略/│性転換/「隣接的雌雄同体」/「隣接的雌雄同体」.md",

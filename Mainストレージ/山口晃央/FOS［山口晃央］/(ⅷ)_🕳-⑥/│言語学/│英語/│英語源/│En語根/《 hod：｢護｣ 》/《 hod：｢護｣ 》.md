@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[Hangar［🛩📥］：格納庫]]
 - [[Hat［🎩💆‍♀️］：帽子]]

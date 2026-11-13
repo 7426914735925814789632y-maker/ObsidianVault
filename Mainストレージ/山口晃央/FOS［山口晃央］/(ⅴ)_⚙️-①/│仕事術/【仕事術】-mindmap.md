@@ -1,7 +1,6 @@
 ---
-
 mindmap-plugin: markdown
-
+意味:
 ---
 
 - [[【起業】]]

@@ -1,3 +1,6 @@
+---
+意味:
+---
 
 ```cardlink
 url: https://www.streetmagician.net/p.php?id=7503

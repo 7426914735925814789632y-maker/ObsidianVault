@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[0112：｢【冷蔵庫パニック 〜the war in the fridge】｣]]
 - [[0113：｢ウニウニマンマンヒトデ｣]]

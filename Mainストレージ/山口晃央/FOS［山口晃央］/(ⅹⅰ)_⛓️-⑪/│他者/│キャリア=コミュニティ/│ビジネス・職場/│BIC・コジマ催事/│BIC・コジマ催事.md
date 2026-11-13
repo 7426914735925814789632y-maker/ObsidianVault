@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[│BIC×コジマ井草店]]**
 - **[[│BIC×コジマ東村山店]]**

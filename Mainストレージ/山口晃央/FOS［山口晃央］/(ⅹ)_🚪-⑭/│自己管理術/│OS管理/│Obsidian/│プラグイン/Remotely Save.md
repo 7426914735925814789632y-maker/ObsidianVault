@@ -1,3 +1,6 @@
+---
+意味:
+---
 #### ●Obsidian⇔GoogleDrive連携
 - 将来的にGeminiがGoogleDriveの全容を覗けるようになるかもしれない
 	→Driveへの保存は将来に向けた資産形成

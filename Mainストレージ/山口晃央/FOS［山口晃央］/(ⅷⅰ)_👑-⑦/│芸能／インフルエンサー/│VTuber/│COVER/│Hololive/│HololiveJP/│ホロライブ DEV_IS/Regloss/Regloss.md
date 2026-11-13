@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 一条莉々華]]
 - [[👤 音乃瀬奏]]

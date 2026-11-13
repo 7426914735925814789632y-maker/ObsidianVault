@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 [[👤 白上フブキ]]＋
 %% Begin Waypoint %%
 - [[👤 大神ミオ]]

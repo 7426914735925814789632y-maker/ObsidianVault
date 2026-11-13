@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[1994-⏯️：♪「LOVE YOU ONLY」]]**
 - **[[2003-⏯️：♪「AMBITIOUS JAPAN!」]]**

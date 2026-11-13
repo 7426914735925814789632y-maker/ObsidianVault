@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[Hey! Say! JUMP]]**
 - **[[KATーTUN]]**

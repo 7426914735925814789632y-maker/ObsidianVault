@@ -1,3 +1,6 @@
+---
+意味:
+---
 ### 設計
 #### ●基本
 - GoogleDrive上に同期されたObsidianフォルダ=:OViD(ObsidianVault_inDrive)のフォルダ構造を一括管理し、重複の削除や検索の利便性を高めるSpreadsheet管理のコンテナバインドスクリプト

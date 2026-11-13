@@ -3,6 +3,7 @@
 生年月日:
 出身:
 大学:
+Waypoint: true
 ---
 %% Begin Waypoint %%
 - [[☷│👤：「角谷 ？？s」.base|☷│👤：「角谷 ？？s」]]

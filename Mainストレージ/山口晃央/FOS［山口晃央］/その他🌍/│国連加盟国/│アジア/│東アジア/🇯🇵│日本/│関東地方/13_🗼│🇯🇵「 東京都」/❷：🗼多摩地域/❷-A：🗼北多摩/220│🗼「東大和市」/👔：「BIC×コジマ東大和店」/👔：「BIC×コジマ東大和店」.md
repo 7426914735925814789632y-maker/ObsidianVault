@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[☷│👔：「BIC×コジマ東大和店」.base|☷│👔：「BIC×コジマ東大和店」]]
 

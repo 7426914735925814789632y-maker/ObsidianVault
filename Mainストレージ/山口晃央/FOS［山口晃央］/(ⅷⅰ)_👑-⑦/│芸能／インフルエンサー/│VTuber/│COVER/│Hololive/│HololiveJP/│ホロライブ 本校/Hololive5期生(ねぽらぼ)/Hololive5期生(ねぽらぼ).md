@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 獅白ぼたん]]
 - [[👤 雪花ラミィ]]

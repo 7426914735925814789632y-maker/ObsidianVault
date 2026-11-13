@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 
 ```cardlink
 url: https://gemini.google.com/gem/1aXoveDnqwbYoPMXULQrTsCGKONSX5BDh?usp=sharing

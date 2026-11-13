@@ -1,5 +1,4 @@
 ---
-親フォルダ: 2026-10-29
 意味: こちらの御託は意にも介さずただ淡々と行動することを頑なに命令するGemini師匠
 ---
 "url: https://share.gemini.google/IBjeaTrRtLIT title: ""タイトル"" description: ""仮のサムネイル"" host: favicon:"

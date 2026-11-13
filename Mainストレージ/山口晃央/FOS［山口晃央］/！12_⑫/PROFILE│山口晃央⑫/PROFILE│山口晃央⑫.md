@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[F［Feeling me］]]**
 - **F［過去＜未来志向］**

@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 潤羽るしあ]]
 - [[👤 兎田ぺこら]]

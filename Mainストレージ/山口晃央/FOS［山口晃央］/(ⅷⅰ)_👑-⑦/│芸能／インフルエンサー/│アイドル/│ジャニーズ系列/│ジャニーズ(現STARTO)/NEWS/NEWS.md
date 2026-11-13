@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 加藤シゲアキ]]
 - [[👤 錦戸亮]]

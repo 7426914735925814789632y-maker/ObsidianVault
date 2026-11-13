@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 国分太一]]
 - [[👤 山口達也]]

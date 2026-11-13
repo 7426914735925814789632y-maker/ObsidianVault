@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[”ファイルID保管方式”]]
 - [[「CDC(変更データキャプチャ)」]]

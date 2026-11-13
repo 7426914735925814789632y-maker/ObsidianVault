@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[│いつか書きたい本リスト]]**
 - **[[│読書Log]]**

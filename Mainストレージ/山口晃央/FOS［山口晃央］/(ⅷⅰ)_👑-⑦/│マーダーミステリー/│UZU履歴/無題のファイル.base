@@ -1,0 +1,12 @@
+properties:
+  note.支払開始日:
+    displayName: 開始日
+views:
+  - type: table
+    name: ビュー
+    filters:
+      and:
+        - "!開始日.isEmpty()"
+    order:
+      - file.name
+      - 開始日

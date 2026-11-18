@@ -28,6 +28,7 @@
     "updated": "text",
     "人格": "multitext",
     "デビュー年": "text",
-    "制作者": "multitext"
+    "制作者": "multitext",
+    "開始日": "text"
   }
 }

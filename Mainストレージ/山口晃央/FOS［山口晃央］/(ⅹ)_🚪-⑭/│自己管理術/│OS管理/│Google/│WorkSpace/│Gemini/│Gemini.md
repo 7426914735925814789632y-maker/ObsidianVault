@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- **[[│＠Skills]]**
 - **[[│GEM]]**
 
 %% End Waypoint %%

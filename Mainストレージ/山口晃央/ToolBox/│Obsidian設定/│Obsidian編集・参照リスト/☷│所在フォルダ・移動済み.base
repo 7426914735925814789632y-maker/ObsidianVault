@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: ビュー
+    filters:
+      and:
+        - 所在フォルダ == "【完了済み】"
+    groupBy:
+      property: 所在チェック
+      direction: ASC
+    order:
+      - file.name
+      - 所在フォルダ
+      - 所在チェック
+      - file.folder

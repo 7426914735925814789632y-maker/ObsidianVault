@@ -137,7 +137,15 @@
       "key": "2"
     }
   ],
-  "auto-card-link:auto-card-link-enhance-selected-url": [],
+  "auto-card-link:auto-card-link-enhance-selected-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
   "auto-card-link:auto-card-link-paste-and-enhance": [
     {
       "modifiers": [
@@ -395,6 +403,32 @@
         "Mod"
       ],
       "key": "M"
+    }
+  ],
+  "templater-obsidian:山口晃央/ToolBox/│Obsidian設定/│Obsidian編集・参照リスト/│Obsidian編集・参照リスト.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:山口晃央/ToolBox/│Obsidian設定/🖲：［Waypointプロパティ➡︎フォルダノート完成］│- ̗̀🗃️  ̖́-.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:山口晃央/ToolBox/│Obsidian設定/🖲：［フォルダ移動➡︎「所在フォルダ」］│➠📂.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
     }
   ]
 }

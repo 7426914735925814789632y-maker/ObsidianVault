@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: ビュー
+    filters:
+      and:
+        - '!所在フォルダ.containsAny("【完了済み】", "【不定】")'
+    order:
+      - file.name
+      - 所在フォルダ

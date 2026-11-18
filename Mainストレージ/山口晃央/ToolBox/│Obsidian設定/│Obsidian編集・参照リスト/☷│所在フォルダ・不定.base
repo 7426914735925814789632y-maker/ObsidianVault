@@ -1,0 +1,13 @@
+properties:
+  note.親フォルダ:
+    displayName: 所在フォルダ
+views:
+  - type: table
+    name: ビュー
+    filters:
+      and:
+        - '!所在フォルダ.contains("【完了済み】")'
+    order:
+      - file.name
+      - 所在フォルダ
+      - file.folder

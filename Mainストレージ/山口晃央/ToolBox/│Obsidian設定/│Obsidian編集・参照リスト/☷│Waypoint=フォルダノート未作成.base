@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: ビュー
+    filters:
+      and:
+        - Waypoint == true
+    order:
+      - file.name
+      - Waypoint

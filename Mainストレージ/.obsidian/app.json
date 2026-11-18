@@ -1,4 +1,5 @@
 {
+  "slidingSidebar": true,
   "alwaysUpdateLinks": true,
   "mobileToolbarCommands": [
     "auto-note-mover:Move-the-note",

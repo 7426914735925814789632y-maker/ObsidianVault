@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 稲垣吾郎]]
 - [[👤 香取慎吾]]

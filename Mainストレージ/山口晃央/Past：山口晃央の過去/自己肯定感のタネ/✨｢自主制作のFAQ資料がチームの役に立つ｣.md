@@ -1,3 +1,6 @@
+---
+意味:
+---
 
 ```cardlink
 url: https://photos.app.goo.gl/eNXbchozDkwWLhep6

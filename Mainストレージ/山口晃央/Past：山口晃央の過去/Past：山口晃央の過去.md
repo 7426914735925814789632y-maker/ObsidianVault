@@ -2,6 +2,7 @@
 意味: "【実軸/過去】Past：山口晃央の過去 の統制フォルダ。DFB（Daily Feedback）・自己肯定感のタネ・財務諸表の起点"
 tags: ["実軸", "過去", "統制", "主観ログ"]
 updated: 2026-09-01
+Waypoint: true
 ---
 
 # Past：山口晃央の過去

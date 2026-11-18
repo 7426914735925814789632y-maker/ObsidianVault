@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[㋟ふぃじかるハッカーAk10]]**
 	- **アイデア**

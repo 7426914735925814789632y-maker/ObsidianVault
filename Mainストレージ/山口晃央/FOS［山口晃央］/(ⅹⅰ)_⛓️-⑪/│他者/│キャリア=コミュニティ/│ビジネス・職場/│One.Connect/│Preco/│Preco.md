@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[│NextLevel経由]]**
 - **[[│Timee経由]]**

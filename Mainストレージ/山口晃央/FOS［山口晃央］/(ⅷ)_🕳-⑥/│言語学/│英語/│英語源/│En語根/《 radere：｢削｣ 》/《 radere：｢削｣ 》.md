@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[Abrasion［🪇🩹］：擦り傷,摩耗]]
 - [[Abrasive［🪨🧽］：研磨剤]]

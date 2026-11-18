@@ -1,3 +1,6 @@
+---
+意味:
+---
 
 ```cardlink
 url: https://music.youtube.com/watch?v=L11N3pv6CU8&si=HJyc6L0NY8a-bYsq

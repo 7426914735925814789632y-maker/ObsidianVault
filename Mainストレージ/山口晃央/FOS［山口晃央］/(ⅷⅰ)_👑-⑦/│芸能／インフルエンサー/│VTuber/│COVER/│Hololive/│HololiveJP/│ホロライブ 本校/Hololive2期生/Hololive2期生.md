@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 紫咲シオン]]
 - [[👤 大空スバル]]

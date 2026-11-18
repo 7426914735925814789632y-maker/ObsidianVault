@@ -6,7 +6,7 @@
 出身:
 
 大学:
-
+Waypoint: true
 ---
 %% Begin Waypoint %%
 - [[☷│👤：「斎藤 ︎︎？？s」.base|☷│👤：「斎藤 ︎︎？？s」]]

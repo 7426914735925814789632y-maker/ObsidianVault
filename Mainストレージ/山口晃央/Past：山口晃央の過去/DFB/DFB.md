@@ -2,6 +2,7 @@
 意味: "【実軸/主観ログ】DFB（Daily Feedback）フォルダの統制。2000年(胎児)～現在にかけての人生時系列に基づく主観体験・感覚記録言語の蓄積"
 tags: ["実軸", "主観ログ", "DFB", "時系列"]
 updated: 2026-09-01
+Waypoint: true
 ---
 
 # DFB（Daily Feedback）

@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[Alt ＋ Enter ：ページをコピー,新タブで開く]]
 - [[Ctrl ＋ 1~8 ：タブ(1~8番目)に移動]]

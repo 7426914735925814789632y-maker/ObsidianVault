@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 響咲リオナ]]
 - [[👤 虎金妃笑虎]]

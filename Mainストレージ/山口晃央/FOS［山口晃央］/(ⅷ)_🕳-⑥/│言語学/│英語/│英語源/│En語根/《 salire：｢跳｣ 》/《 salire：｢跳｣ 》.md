@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[Resilient［↘↗🥎］：弾力性,回復力]]
 - [[Result［↝📊］：結果]]

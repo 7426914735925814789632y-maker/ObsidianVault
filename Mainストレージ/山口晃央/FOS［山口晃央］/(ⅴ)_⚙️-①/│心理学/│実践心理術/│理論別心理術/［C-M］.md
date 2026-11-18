@@ -1,3 +1,6 @@
+---
+意味:
+---
 Core-Message
 Concealed-Mandate
 Covert-Mission 

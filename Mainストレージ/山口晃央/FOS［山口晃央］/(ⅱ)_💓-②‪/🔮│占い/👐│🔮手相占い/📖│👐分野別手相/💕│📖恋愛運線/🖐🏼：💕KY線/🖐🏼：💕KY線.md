@@ -2,6 +2,8 @@
 sr-due: 2026-04-25
 sr-interval: 4
 sr-ease: 270
+意味:
+Waypoint: true
 ---
 %% Begin Waypoint %%
 

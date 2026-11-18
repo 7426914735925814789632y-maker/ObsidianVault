@@ -2,6 +2,7 @@
 意味: "【実軸/未来志向】Future：山口晃央の未来 の統制フォルダ。晃央のProject・やりたいこと List・問い List の起点"
 tags: ["実軸", "未来", "統制"]
 updated: 2026-09-01
+Waypoint: true
 ---
 
 # Future：山口晃央の未来

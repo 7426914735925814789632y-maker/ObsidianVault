@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - **[[《 ab- ：｢離｣ 》]]**
 - **[[《 co-：｢共｣ 》]]**

@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[👤 伊野尾慧]]
 - [[👤 岡本圭人]]

@@ -1,3 +1,6 @@
+---
+意味:
+---
 
 ```cardlink
 url: https://app.notion.com/p/Crazy-Sam-s-Finger-Illusion-3d77f236974b81baa352d447f4e95ed0

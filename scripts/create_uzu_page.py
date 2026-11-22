@@ -348,10 +348,10 @@ def build_markdown(payload: dict[str, object], target_dir: Path) -> tuple[Path, 
         sections.extend(["", "", ""])
 
     if x_post_url:
-        embed_url = x_post_url.replace("https://x.com/", "https://twitter.com/", 1)
-        sections.append("!" + "[](" + embed_url + ")")
+        sections.append("!" + "[](" + x_post_url + ")")
         sections.append("")
 
+        
         need_x_fetch = not x_post_text or not x_image_url
         fetched_x = fetch_x_metadata(x_post_url) if need_x_fetch else {}
         x_card = {

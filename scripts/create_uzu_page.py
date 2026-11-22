@@ -348,7 +348,7 @@ def build_markdown(payload: dict[str, object], target_dir: Path) -> tuple[Path, 
         sections.extend(["", "", ""])
 
     if x_post_url:
-        sections.append(f"[{x_post_url}]")
+        sections.append("!" + "[](" + x_post_url + ")")
         sections.append("")
 
         need_x_fetch = not x_post_text or not x_image_url

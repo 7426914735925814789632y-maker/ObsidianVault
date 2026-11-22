@@ -1,0 +1,108 @@
+
+
+
+YML のアイコン
+create_uzu_page
+name: Create Obsidian UZU Page
+
+on:
+  repository_dispatch:
+    types: [create-uzu-page]
+  workflow_dispatch:
+    inputs:
+      cumulative_number:
+        description: "累計番号（例：0126）"
+        required: true
+        type: string
+      scenario_title:
+        description: "シナリオ名（例：めぐりめぐりて 〜明治竹原懐古奇譚〜）"
+        required: true
+        type: string
+      play_date:
+        description: "開始日（YYYY-MM-DD、空欄なら当日JST）"
+        required: false
+        type: string
+      synopsis:
+        description: "意味プロパティ（キャラ視点のあらすじ）"
+        required: false
+        type: string
+      memo:
+        description: "振り返りメモ"
+        required: false
+        type: string
+      uzu_url:
+        description: "UZU卓URL"
+        required: false
+        type: string
+      x_post_url:
+        description: "X投稿URL"
+        required: false
+        type: string
+      x_post_text:
+        description: "X投稿本文"
+        required: false
+        type: string
+      x_image_url:
+        description: "X投稿サムネイル画像URL"
+        required: false
+        type: string
+      gemini_url:
+        description: "Gemini戦略ログURL"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  create-page:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout ObsidianVault
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build payload JSON
+        id: payload
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          DISPATCH_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          INPUT_PAYLOAD: ${{ toJson(github.event.inputs) }}
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          event_name = os.environ["EVENT_NAME"]
+          raw = os.environ["DISPATCH_PAYLOAD"] if event_name == "repository_dispatch" else os.environ["INPUT_PAYLOAD"]
+          with open("/tmp/uzu_payload.json", "w", encoding="utf-8") as f:
+              f.write(raw)
+          EOF
+
+      - name: Generate Obsidian UZU Markdown
+        id: generate
+        env:
+          UZU_TARGET_DIR: "Mainストレージ/山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴"
+        run: |
+          python3 scripts/create_uzu_page.py < /tmp/uzu_payload.json
+
+      - name: Commit and push with rebase retry
+        if: steps.generate.outputs.created_file != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${{ steps.generate.outputs.created_file }}"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Add UZU play log: ${{ steps.generate.outputs.created_file }}"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            sleep 2
+          done
+          exit 1

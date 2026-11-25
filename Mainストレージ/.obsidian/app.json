@@ -32,7 +32,8 @@
     "editor:configure-toolbar",
     "editor:insert-mathblock",
     "editor:insert-footnote",
-    "bases:insert"
+    "bases:insert",
+    "auto-card-link:auto-card-link-enhance-selected-url"
   ],
   "promptDelete": false,
   "newFileLocation": "current",

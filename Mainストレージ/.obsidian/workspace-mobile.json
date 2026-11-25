@@ -8,45 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63fd5fb9778ac49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/ToolBox/│Obsidian設定/🖲：［Waypointプロパティ➡︎フォルダノート完成］│- ̗̀🗃️  ̖́-.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🖲：［Waypointプロパティ➡︎フォルダノート完成］│- ̗̀🗃️  ̖́-"
-            }
-          },
-          {
-            "id": "3635f13689fa891c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/ToolBox/│Obsidian設定/🖲：［フォルダ移動➡︎「所在フォルダ」］│➠📂.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🖲：［フォルダ移動➡︎「所在フォルダ」］│➠📂"
-            }
-          },
-          {
             "id": "ed259718e5cddf29",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/01│X投稿：ひあ🌟/「マダミスLog」/▦│「マダミスLog」.canvas",
+                "viewState": {
+                  "x": 207.28127718455858,
+                  "y": 148.95175322496402,
+                  "zoom": -0.3509282769045348
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "▦│「マダミスLog」"
+            }
+          },
+          {
+            "id": "f1ed285ae783d361",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-15/2026-11-15.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/📸│Gフォト/📸│Gフォト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-15"
+              "title": "📸│Gフォト"
             }
           },
           {
@@ -118,231 +107,297 @@
             }
           },
           {
-            "id": "aa25cec17a14e488",
+            "id": "4918037b2591b662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「保留の感情調整モデル」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/02│X投稿：めあ💓‪/02│X投稿：めあ💓‪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "「保留の感情調整モデル」"
+              "title": "02│X投稿：めあ💓‪"
             }
           },
           {
-            "id": "0ca286920074219d",
+            "id": "28801c280054eb9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「自己実現の５大タブー」/１：「目標宣言のタブー（計画宣言のタブー）」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/03│X投稿：さあ❔/03│X投稿：さあ❔.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "１：「目標宣言のタブー（計画宣言のタブー）」"
+              "title": "03│X投稿：さあ❔"
             }
           },
           {
-            "id": "6f1d6eab1aa9b80d",
+            "id": "767a22f8a09f0c17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「自己実現の５大タブー」/２：「弱点開示のタブー」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0126：「ボクを殺したのは、だぁれ？」.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "２：「弱点開示のタブー」"
+              "title": "0126：「ボクを殺したのは、だぁれ？」"
             }
           },
           {
-            "id": "3b97deb1448ced65",
+            "id": "b908079c0916fdfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「自己実現の５大タブー」/３：「努力露呈のタブー」.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "３：「努力露呈のタブー」"
+              "title": "新規タブ"
             }
           },
           {
-            "id": "7369a2e1a286847a",
+            "id": "b1d5269259c32d23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「自己実現の５大タブー」/４：「愚痴のタブー」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：Autocardlink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "４：「愚痴のタブー」"
+              "title": "📜：Autocardlink"
             }
           },
           {
-            "id": "aa8cad9d805ae2c2",
+            "id": "c8ad12c83c3e105d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "「自己実現の５大タブー」/５：「経過報告のタブー(順調経過のタブー)」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log/⬜️：UZU_Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "５：「経過報告のタブー(順調経過のタブー)」"
+              "title": "⬜️：UZU_Log"
             }
           },
           {
-            "id": "b70b827585be651a",
+            "id": "dd1cf29dc103b0ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/F［特別感］.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/X投稿：ダース·マン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F［特別感］"
+              "title": "X投稿：ダース·マン"
             }
           },
           {
-            "id": "858045eeeb475aed",
+            "id": "c843287244459434",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［2000年=ミレニアム生まれ］.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/01│X投稿：ひあ🌟/01│X投稿：ひあ🌟.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ID［2000年=ミレニアム生まれ］"
+              "title": "01│X投稿：ひあ🌟"
             }
           },
           {
-            "id": "26b05ed5e0b6cd9f",
+            "id": "0c5bc01d174fe580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［象徴コード：12］/ID［平成12年12月12日］.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜│＠Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ID［平成12年12月12日］"
+              "title": "📜│＠Skills"
             }
           },
           {
-            "id": "8e355d5be0426ddd",
+            "id": "d67236af42588a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/│Gemini/│Gemini.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：Autocardlink.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "│Gemini"
+              "title": "📜：Autocardlink"
             }
           },
           {
-            "id": "51d3de4b84e47e48",
+            "id": "6679a35319cd17be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│GITHUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」"
+              "title": "│GITHUB"
             }
           },
           {
-            "id": "2fd6f61ca6c0d6da",
+            "id": "4638ed04151da31f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0123：「しろいかいぶつのナゾトキタワー（初回版）」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│Actions/│Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0123：「しろいかいぶつのナゾトキタワー（初回版）」"
+              "title": "│Actions"
             }
           },
           {
-            "id": "b6210b898bf96423",
+            "id": "350bc0930a4fcdc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0122：｢妖がたり｣.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│Repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0122：｢妖がたり｣"
+              "title": "│Repository"
             }
           },
           {
-            "id": "1171fc34c4beaecf",
+            "id": "0ae64b61dd09e8c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0123：「しろいかいぶつのナゾトキタワー（初回版）」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│ObsidianVault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0123：「しろいかいぶつのナゾトキタワー（初回版）」"
+              "title": "│ObsidianVault"
             }
           },
           {
-            "id": "95aaa302c353d035",
+            "id": "43090a48937eff83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」.md",
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/🤖：create_uzu_page.yml（GitHub Actions ワークフロー）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」"
+              "title": "🤖：create_uzu_page.yml（GitHub Actions ワークフロー）"
             }
           },
           {
-            "id": "311fb22f16291250",
+            "id": "2905c8e1e188f6cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」.md",
+                "file": "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/2026-11-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」"
+              "title": "2026-11-24"
+            }
+          },
+          {
+            "id": "6a83b99bfd18838b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/🄶：「彼女との距離感について」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🄶：「彼女との距離感について」"
+            }
+          },
+          {
+            "id": "fa5e63ebd734c00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/ToolBox/│AI_マルチプロンプト/│AI_マルチプロンプト.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "│AI_マルチプロンプト"
+            }
+          },
+          {
+            "id": "4628c5445835b8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/ToolBox/│AI_マルチプロンプト/📓：「クオリア見出し」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📓：「クオリア見出し」"
+            }
+          },
+          {
+            "id": "d150b7e4bcde5b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep/💡│GKeep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💡│GKeep"
+            }
+          },
+          {
+            "id": "ef44411d98b1bcb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0128：「NURUGA -ヌルーガ-」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0128：「NURUGA -ヌルーガ-」"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -372,8 +427,8 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Gemini",
-            "matchingCase": false,
+            "query": "2026-11-24",
+            "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
@@ -878,44 +933,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "95aaa302c353d035",
+  "active": "4628c5445835b8b6",
   "lastOpenFiles": [
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/Untitled.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0124：「しろいかいぶつのナゾトキタワー（2周目）」.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0126：「ボクを殺したのは、だぁれ？」.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0113：｢ウニウニマンマンヒトデ｣.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0121：｢機会の心の在り処｣.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0122：｢妖がたり｣.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0123：「しろいかいぶつのナゾトキタワー（初回版）」.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0125：「めぐりめぐりて 〜明治竹原懐古奇譚〜」.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0124：「」.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0122：｢妖がたり｣ 1.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/無題のファイル.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/無題のファイル.base",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/[Fetching.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/│Gemini/│＠Skills/│＠Skills.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/│Gemini/Untitled.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/│Gemini/│Gemini.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/│Gemini/│＠Skills",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/│WorkSpace.md",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［反転コード：21］/ID［純21世紀人］.md",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［反転コード：21］/ID［反転コード：21］.md",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［象徴コード：12］/ID［12人格］.md",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［象徴コード：12］/ID［平成12年12月12日］.md",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［2000年=ミレニアム生まれ］.md",
-    "「自己実現の５大タブー」/５：「経過報告のタブー(順調経過のタブー)」.md",
-    "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0120：｢デットカルト｣.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│サブスクリプション/💱：「Todoist」.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│サブスクリプション/💱：「DMM_TV」.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│サブスクリプション/💱：「Anthropic Pro」.md",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［反転コード：21］",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］/ID［象徴コード：12］",
-    "山口晃央/FOS［山口晃央］/！12_⑫/PROFILE│山口晃央⑫/F［特別感］",
-    "「自己実現の５大タブー」",
-    "山口晃央/ToolBox/│Obsidian設定/│Obsidian編集・参照リスト/☷│所在フォルダ・未完.base",
-    "山口晃央/ToolBox/│Obsidian設定/│Obsidian編集・参照リスト/☷│所在フォルダ・移動済み.base",
-    "山口晃央/ToolBox/│Obsidian設定/│Obsidian編集・参照リスト/☷│Waypoint=フォルダノート未作成.base",
-    "「自己実現の５大タブー」",
+    "山口晃央/ToolBox/│AI_マルチプロンプト/│AI_マルチプロンプト.md",
+    "山口晃央/ToolBox/│AI_マルチプロンプト/📓：「クオリア見出し」.md",
+    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/Untitled.md",
+    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/🄶：「彼女との距離感について」.md",
+    "山口晃央/ToolBox/│AI_マルチプロンプト",
+    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/2026-11-24.md",
+    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔2026年〕.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/🤖：create_uzu_page.py（Obsidianページ生成スクリプト）.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/🤖：create_uzu_page.yml（GitHub Actions ワークフロー）.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│ObsidianVault.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│Repository.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Actions/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│Actions/│Actions.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│GITHUB.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│Actions",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：Autocardlink.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：uzu−log.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/01│X投稿：ひあ🌟/「マダミスLog」/▦│「マダミスLog」.canvas",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log/🟩：UZU_Log.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log/⬜️：UZU_Log.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：OS構築保存 (os-build-save).md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜│＠Skills.md",
+    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-23/2026-11-23.md",
+    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-23/▦│「マダミスLog」.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep/💡│GKeep.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/📸│Gフォト/📸│Gフォト.md",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/📸│Gフォト",
+    "𝙎𝙨：「UZU_Log」",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep/│タグ",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep",
     "山口晃央/FOS［山口晃央］/(ⅱ)_💓-②‪/🔮│占い/🃏│🔮タロット占い/◆│🃏大アルカナ/𝟘𝟘：◆−👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~/▦：◆-👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~.canvas",
     "山口晃央/FOS［山口晃央］/(ⅱ)_💓-②‪/🔮│占い/🃏│🔮タロット占い/◆│🃏大アルカナ/𝟘𝟘：◆-👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~/▦：◆-👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~.canvas",
     "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/▦│OS管理.canvas",
@@ -924,7 +980,6 @@
     "山口晃央/FOS［山口晃央］/(ⅹⅱ)_💋-⑩/💗│エロティシズム/📑│💗エロ倉庫/⏯️│📑2Dビデオ/💘│⏯️性癖/❗│💘リアクション/│体液反応/│愛液/▦│愛液.canvas",
     "山口晃央/FOS［山口晃央］/(ⅹⅱ)_💋-⑩/💗│エロティシズム/📑│💗エロ倉庫/⏯️│📑2Dビデオ/📸│⏯️設定/🗨️│📸シチュエーション/🏫│🗨️学校/👨‍🏫│🏫保健体育･性教室/▦│🏫保健体育･性教室.canvas",
     "山口晃央/FOS［山口晃央］/(ⅹⅱ)_💋-⑩/💗│エロティシズム/📑│💗エロ倉庫/⏯️│📑2Dビデオ/📸│⏯️設定/🗨️│📸シチュエーション/🏫│🗨️学校/👨‍🏫│🏫保健体育･性教室/👨‍🏫│🏫保健体育･性教室.canvas",
-    "▦│愛液.canvas",
-    "山口晃央/FOS［山口晃央］/(ⅹⅱ)_💋-⑩/💗│エロティシズム/📑│💗エロ倉庫/⏯️│📑2Dビデオ/💘│⏯️性癖/❗│💘リアクション/│体液反応/│潮吹き/▦：潮吹き.canvas"
+    "▦│愛液.canvas"
   ]
 }

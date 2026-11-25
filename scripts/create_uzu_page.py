@@ -28,6 +28,7 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/124.0.0.0 Safari/537.36"
 )
+BOT_USER_AGENT = "Twitterbot/1.0"
 
 
 class OGPParser(HTMLParser):
@@ -71,12 +72,14 @@ class OGPParser(HTMLParser):
         return html.unescape("".join(self.title_parts).strip())
 
 
-def http_get_text(url: str, timeout: int = 12) -> tuple[str, str]:
+def http_get_text(
+    url: str, timeout: int = 12, user_agent: str = USER_AGENT
+) -> tuple[str, str]:
     """Fetch URL body and final URL; return ('', url) on failure."""
     req = urllib.request.Request(
         url,
         headers={
-            "User-Agent": USER_AGENT,
+            "User-Agent": user_agent,
             "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
         },
     )
@@ -105,7 +108,8 @@ def fetch_ogp(url: str, timeout: int = 12) -> dict[str, str]:
     if not url:
         return result
 
-    body, final_url = http_get_text(url, timeout=timeout)
+    ua = BOT_USER_AGENT if "uzu-app.com" in host else USER_AGENT
+    body, final_url = http_get_text(url, timeout=timeout, user_agent=ua)
     if not body:
         return result
 
@@ -334,15 +338,20 @@ def build_markdown(payload: dict[str, object], target_dir: Path) -> tuple[Path, 
     uzu_ogp: dict[str, str] = {}
     if uzu_url:
         uzu_ogp = fetch_ogp(uzu_url)
-        if not uzu_ogp.get("title"):
+        if not uzu_ogp.get("title") or uzu_ogp.get("title") in ("ウズ", "UZU"):
             uzu_ogp["title"] = f"『{scenario_title}』"
+        if not uzu_ogp.get("image") and x_image_url:
+            uzu_ogp["image"] = x_image_url
+        if not uzu_ogp.get("favicon"):
+            uzu_ogp["favicon"] = "https://www.uzu-app.com/favicon.ico"
         sections.append(format_cardlink(uzu_ogp))
         sections.extend(["", "", ""])
 
     if x_post_url:
-        sections.append(f"![]({x_post_url})")
+        sections.append("!" + "[](" + x_post_url + ")")
         sections.append("")
 
+        
         need_x_fetch = not x_post_text or not x_image_url
         fetched_x = fetch_x_metadata(x_post_url) if need_x_fetch else {}
         x_card = {

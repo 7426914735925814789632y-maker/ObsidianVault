@@ -3,8 +3,9 @@
 Waypoint: true
 ---
 %% Begin Waypoint %%
-- **[[│＠Skills]]**
 - **[[│GEM]]**
+- **[[📘│notebook]]**
+- **[[📜│＠Skills]]**
 
 %% End Waypoint %%
 

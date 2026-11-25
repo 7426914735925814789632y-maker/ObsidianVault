@@ -3,10 +3,10 @@
 Waypoint: true
 ---
 %% Begin Waypoint %%
-- **[[│Calendar]]**
-- **[[│GAS]]**
-- **[[│Gemini]]**
-- **[[│notebookLM]]**
-- **[[│Spreadsheet]]**
+- **[[💡│GKeep]]**
+- **[[📸│Gフォト]]**
+- **[[🗃️│Google Drive]]**
+- **[[🗓│Calendar]]**
+- **[[🄶│Gemini]]**
 
 %% End Waypoint %%

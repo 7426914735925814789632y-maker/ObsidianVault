@@ -4,6 +4,7 @@
 
 %% End Waypoint %%
 Waypoint: true
+意味:
 ---
 
 ･フォルダ内階層を紐付けできる

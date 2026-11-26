@@ -1,3 +1,7 @@
+---
+意味:
+Waypoint: true
+---
 %% Begin Waypoint %%
 - [[”時間のムダ”]]
 - [[”時間は命”]]

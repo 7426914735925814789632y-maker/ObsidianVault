@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"85d557d77188cf7d","type":"group","x":260,"y":-120,"width":400,"height":400,"label":"Habitica"},
+		{"id":"9e1d1c926b37973b","type":"group","x":1000,"y":140,"width":400,"height":400,"label":"DNS"},
+		{
+			"id":"762e9bd71d21b83c",
+			"type":"text",
+			"text":"[[☒：「Youtube15分使用」]]",
+			"styleAttributes":{},
+			"x":360,
+			"y":160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d5f83a3009b4ae29",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":1000,
+			"y":220,
+			"width":400,
+			"height":100
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

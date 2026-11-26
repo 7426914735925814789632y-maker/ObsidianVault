@@ -8,34 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed259718e5cddf29",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/01│X投稿：ひあ🌟/「マダミスLog」/▦│「マダミスLog」.canvas",
-                "viewState": {
-                  "x": 207.28127718455858,
-                  "y": 148.95175322496402,
-                  "zoom": -0.3509282769045348
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "▦│「マダミスLog」"
-            }
-          },
-          {
             "id": "f1ed285ae783d361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/📸│Gフォト/📸│Gフォト.md",
+                "file": "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-25/2026-11-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📸│Gフォト"
+              "title": "2026-11-25"
+            }
+          },
+          {
+            "id": "374655a5347cb1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-25/🄶：「Robloxまちづくりプロジェクト」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🄶：「Robloxまちづくりプロジェクト」"
             }
           },
           {
@@ -50,154 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "アポ①"
-            }
-          },
-          {
-            "id": "34ad1a52ccef8f33",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "山口晃央/ToolBox/│Obsidian設定/│Obsidian編集・参照リスト/☷│所在フォルダ・未完.base",
-                "viewName": "ビュー"
-              },
-              "icon": "lucide-table",
-              "title": "☷│所在フォルダ・未完"
-            }
-          },
-          {
-            "id": "312331ab5071cf48",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "山口晃央/ToolBox/│Obsidian設定/│Obsidian編集・参照リスト/☷│所在フォルダ・移動済み.base",
-                "viewName": "ビュー"
-              },
-              "icon": "lucide-table",
-              "title": "☷│所在フォルダ・移動済み"
-            }
-          },
-          {
-            "id": "92f3b8a62b80ae91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「貧困の練習」.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "「貧困の練習」"
-            }
-          },
-          {
-            "id": "f53fd99e0f8f6e45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "「SIT（ストレス免疫訓練）」.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "「SIT（ストレス免疫訓練）」"
-            }
-          },
-          {
-            "id": "4918037b2591b662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/02│X投稿：めあ💓‪/02│X投稿：めあ💓‪.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02│X投稿：めあ💓‪"
-            }
-          },
-          {
-            "id": "28801c280054eb9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/03│X投稿：さあ❔/03│X投稿：さあ❔.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03│X投稿：さあ❔"
-            }
-          },
-          {
-            "id": "767a22f8a09f0c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0126：「ボクを殺したのは、だぁれ？」.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0126：「ボクを殺したのは、だぁれ？」"
-            }
-          },
-          {
-            "id": "b908079c0916fdfd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
-            }
-          },
-          {
-            "id": "b1d5269259c32d23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：Autocardlink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📜：Autocardlink"
-            }
-          },
-          {
-            "id": "c8ad12c83c3e105d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log/⬜️：UZU_Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "⬜️：UZU_Log"
-            }
-          },
-          {
-            "id": "dd1cf29dc103b0ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/X投稿：ダース·マン.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "X投稿：ダース·マン"
             }
           },
           {
@@ -229,6 +78,174 @@
             }
           },
           {
+            "id": "a24c4d0731efda29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│アフォリズム/│銘言/「〝私たちは時間がないのではない。無駄にしている時間が多すぎるのだ。〟」Byセネカ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "「〝私たちは時間がないのではない。無駄にしている時間が多すぎるのだ。〟」Byセネカ"
+            }
+          },
+          {
+            "id": "947886fb4af4220f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/F［時間資本主義］.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F［時間資本主義］"
+            }
+          },
+          {
+            "id": "02e712dedb67fede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時間は命”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "”時間は命”"
+            }
+          },
+          {
+            "id": "8dada18befcb9ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時間を大切にする”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "”時間を大切にする”"
+            }
+          },
+          {
+            "id": "88e61aff13216b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時間のムダ”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "”時間のムダ”"
+            }
+          },
+          {
+            "id": "f6036641aca0185f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時給換算でいくらの価値があるか？”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "”時給換算でいくらの価値があるか？”"
+            }
+          },
+          {
+            "id": "0f2ea2ccaccff813",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［生命主義］/F［生命主義］.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F［生命主義］"
+            }
+          },
+          {
+            "id": "0560f6ef8b804991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［現証主義］/F［現証主義］.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F［現証主義］"
+            }
+          },
+          {
+            "id": "be7b007bcfac66ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［金融資本主義］/F［金融資本主義］.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F［金融資本主義］"
+            }
+          },
+          {
+            "id": "66b06a64de41b25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［人的資本主義］/F［人的資本主義］.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F［人的資本主義］"
+            }
+          },
+          {
+            "id": "51aa0757e436f4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［信用資本主義（社会資本主義）］/F［信用資本主義（社会資本主義）］.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F［信用資本主義（社会資本主義）］"
+            }
+          },
+          {
+            "id": "1f775a8c493eec8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│アフォリズム/│銘言/「〝人は目標の高さまで上がるのではない。システムの低さ（仕組みのレベル）まで落ちていく。〟」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "「〝人は目標の高さまで上がるのではない。システムの低さ（仕組みのレベル）まで落ちていく。〟」"
+            }
+          },
+          {
             "id": "d67236af42588a34",
             "type": "leaf",
             "state": {
@@ -257,62 +274,6 @@
             }
           },
           {
-            "id": "4638ed04151da31f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│Actions/│Actions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "│Actions"
-            }
-          },
-          {
-            "id": "350bc0930a4fcdc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│Repository.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "│Repository"
-            }
-          },
-          {
-            "id": "0ae64b61dd09e8c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│ObsidianVault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "│ObsidianVault"
-            }
-          },
-          {
-            "id": "43090a48937eff83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/🤖：create_uzu_page.yml（GitHub Actions ワークフロー）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🤖：create_uzu_page.yml（GitHub Actions ワークフロー）"
-            }
-          },
-          {
             "id": "2905c8e1e188f6cb",
             "type": "leaf",
             "state": {
@@ -324,20 +285,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-11-24"
-            }
-          },
-          {
-            "id": "6a83b99bfd18838b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/🄶：「彼女との距離感について」.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🄶：「彼女との距離感について」"
             }
           },
           {
@@ -360,44 +307,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "山口晃央/ToolBox/│AI_マルチプロンプト/📓：「クオリア見出し」.md",
+                "file": "山口晃央/ToolBox/│AI_マルチプロンプト/📓：「Q要約（クオリア要約）」.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📓：「クオリア見出し」"
-            }
-          },
-          {
-            "id": "d150b7e4bcde5b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep/💡│GKeep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "💡│GKeep"
-            }
-          },
-          {
-            "id": "ef44411d98b1bcb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "山口晃央/FOS［山口晃央］/(ⅷⅰ)_👑-⑦/│マーダーミステリー/│UZU履歴/0128：「NURUGA -ヌルーガ-」.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0128：「NURUGA -ヌルーガ-」"
+              "title": "📓：「Q要約（クオリア要約）」"
             }
           }
-        ],
-        "currentTab": 25
+        ]
       }
     ],
     "direction": "vertical"
@@ -877,23 +795,13 @@
         }
       },
       {
-        "id": "a9df7c9bb64cea24",
+        "id": "931326f53060e549",
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
           "state": {},
           "icon": "SpacedRepIcon",
           "title": "ノートレビューのキュー"
-        }
-      },
-      {
-        "id": "931326f53060e549",
-        "type": "leaf",
-        "state": {
-          "type": "review-queue-list-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "review-queue-list-view"
         }
       },
       {
@@ -933,45 +841,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4628c5445835b8b6",
+  "active": "f1ed285ae783d361",
   "lastOpenFiles": [
-    "山口晃央/ToolBox/│AI_マルチプロンプト/│AI_マルチプロンプト.md",
-    "山口晃央/ToolBox/│AI_マルチプロンプト/📓：「クオリア見出し」.md",
-    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/Untitled.md",
-    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/🄶：「彼女との距離感について」.md",
-    "山口晃央/ToolBox/│AI_マルチプロンプト",
     "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-24/2026-11-24.md",
-    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔2026年〕.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/🤖：create_uzu_page.py（Obsidianページ生成スクリプト）.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/🤖：create_uzu_page.yml（GitHub Actions ワークフロー）.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│ObsidianVault.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/Untitled.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│Repository.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Actions/Untitled.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│Actions/│Actions.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/Untitled.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│GITHUB.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault/│Actions",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［現証主義］/F［現証主義］.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢プラグマチズム｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢宗教プラグマチズム｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢信仰の種類｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢信仰は信用なり｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢正しき信仰｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢評判と感情｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/５│信仰即生活.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/❏.５│信仰即生活.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/５│信仰即生活/｢人は人を咎むる勿れ｣.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/│宗教 下.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│宗教学/│日本宗教/│新興宗教/01│教派神道系/│大本教系/│世界救世教系/│世界救世教/│御教え/│天国の礎/│宗教 下/４│大乗信仰/✄：⒋ 大乗信仰/✄：⒋ 大乗信仰.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［生命主義］/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［生命主義］/F［生命主義］.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［現証主義］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/Untitled.md",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時給換算でいくらの価値があるか？”.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/PROFILE│こあ🐨/F［生命主義］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時間のムダ”.md",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時間を大切にする”.md",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/”時間は命”.md",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］/F［時間資本主義］.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│アフォリズム/│銘言/「〝時間とはすなわち命なのです。そして命とは、人間の心のなかにあるものなのです。〟」Byミヒャエル・エンデ(モモより).md",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［金融資本主義］/F［金融資本主義］.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│アフォリズム/│銘言/「〝私たちは時間がないのではない。無駄にしている時間が多すぎるのだ。〟」Byセネカ.md",
     "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：Autocardlink.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：uzu−log.md",
+    "山口晃央/FOS［山口晃央］/(ⅳ)_🐨-⑤/│アフォリズム/│銘言/「〝人は自分の時間をどう使うかで、自分が何者であるかを示す〟」Byジャクソン・ブラウン・ジュニア.md",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［信用資本主義（社会資本主義）］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［人的資本主義］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［金融資本主義］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［人生資本主義］/F［時間資本主義］",
+    "山口晃央/FOS［山口晃央］/(ⅴ)_⚙️-①/PROFILE│ぎあ⚙️/F［結果主義（成果主義）］",
     "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│発信管理/│SNS管理/│X管理/X投稿：ダース·マン/01│X投稿：ひあ🌟/「マダミスLog」/▦│「マダミスLog」.canvas",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log/🟩：UZU_Log.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log/⬜️：UZU_Log.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜：OS構築保存 (os-build-save).md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🄶│Gemini/📜│＠Skills/📜│＠Skills.md",
-    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-23/2026-11-23.md",
-    "山口晃央/Past：山口晃央の過去/DFB/│25歳~30歳/〔2026年〕/〔11月〕/2026-11-23/▦│「マダミスLog」.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep/💡│GKeep.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/📸│Gフォト/📸│Gフォト.md",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/📸│Gフォト",
-    "𝙎𝙨：「UZU_Log」",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/🗃️│Google Drive/🟩│Spreadsheet/🟩：UZU_Log",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep/│タグ",
-    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│Google/│WorkSpace/💡│GKeep",
+    "山口晃央/ToolBox/│AI_マルチプロンプト",
+    "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/│GITHUB/│Repository/│ObsidianVault",
     "山口晃央/FOS［山口晃央］/(ⅱ)_💓-②‪/🔮│占い/🃏│🔮タロット占い/◆│🃏大アルカナ/𝟘𝟘：◆−👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~/▦：◆-👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~.canvas",
     "山口晃央/FOS［山口晃央］/(ⅱ)_💓-②‪/🔮│占い/🃏│🔮タロット占い/◆│🃏大アルカナ/𝟘𝟘：◆-👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~/▦：◆-👢「愚者」~ᴛʜᴇ ғᴏᴏʟ~.canvas",
     "山口晃央/FOS［山口晃央］/(ⅹ)_🚪-⑭/│自己管理術/│OS管理/▦│OS管理.canvas",

@@ -1,13 +1,11 @@
 ---
-意味: Skills・GAS・スプレッドシート等の構築・改修内容を、ObsidianのBases対応プロパティ＋人間向け一言要約＋AI向け技術解説の統一フォーマットで出力するスキル。
+意味: Skills・GAS・スプレッドシート等の構築・改修内容を、ObsidianのBases対応プロパティ＋人間向け一言要約＋AI向け技術解説の統一フォーマットで出力し、「コズミ」確認と最小返答で保存完了まで管理するスキル。
 ---
-<table style="width: 100%; border-collapse: separate; border-spacing: 0; border: 1px solid #555555; background-color: rgba(128, 128, 128, 0.12); border-radius: 14px; overflow: hidden; margin: 6px 0;"><tr><td style="border: none; padding: 10px 12px; vertical-align: middle; line-height: 1.35;"><a href="https://share.gemini.google/b4zSx450EDx5" style="font-weight: 600; font-size: 0.9em; text-decoration: none;">Gemini - direct access to Google AI</a><br><span style="font-size: 0.78em; opacity: 0.8;">Created with Gemini</span><br><span style="font-size: 0.7em; opacity: 0.65;">🌐 share.gemini.google</span></td><td align="center" valign="middle" width="120" style="border: none; padding: 8px 12px 8px 0; text-align: center; vertical-align: middle;"><img src="https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png" width="105" style="width: 105px; height: auto; border-radius: 8px; display: block; margin: 0 auto;"></td></tr></table>
-
 
 ## 概要・トリガー
 - **呼び出しワード / 発火条件:** `@OSセーブ`、`＠OSセーブ`、`OSセーブ`、`OS構築保存`、`@OS構築保存`、`＠OS構築保存`
 - **対象 / 連携先:** Obsidian（構築ログ・システムドキュメント保管用ノート）
-- **動作:** 直前の会話や指定されたシステム構築物から役割・トリガー・構造・ハマりポイントを抽出し、そのままObsidianへ貼り付けられるMarkdownドキュメントを生成する。
+- **動作:** 直前の会話や指定されたシステム構築物から役割・トリガー・構造・ハマりポイントを抽出してObsidian向けMarkdownを出力し、最後に「コズミ」返信を促す。ユーザーから「コズミ」を受け取ったら「コズミ確認。」など最小限の返答を返す。
 
 ## AIが陥りやすい罠・必須の制約事項（仕様の勘所）
 
@@ -25,3 +23,8 @@
 3. **ログの冗長化による保守性悪化＝**
   - 会話のやり取りをそのまままとめると長文化し、実践で参照したい仕様や制約が埋もれてしまう。
   - **対策:** 「概要・トリガー」と「仕様の勘所（問題・対策）」の2軸に絞って構造化し、関連URLを添える場合は最新の `autocardlink`（1行HTMLリンクカード）仕様を併用する。
+
+「出しっぱなしで終わるな、次の入力で『コズミ』をもらったら『コズミ確認。』だけで返せ」
+4. **コピペ漏れと確認応答によるチャット肥大化＝**
+  - 出力しただけではObsidianへ保存済みか後から判別できず、逆に受領時にAIが長文で返すと履歴が見づらくなる。
+  - **対策:** OSセーブ出力の末尾で「次の入力で **『コズミ』** と返してください」と促し、「コズミ（コ済）」が返ってきたら「コズミ確認。」など最小限の返答のみを返してログを汚さない。
